@@ -18,8 +18,9 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
 #EXTINF:0,Telecinco
 
 
-#EXTINF:0 tvg-name="La Sexta" tvg-logo="http://i67.tinypic.com/fu2v44.jpg",La Sexta
+#EXTINF:0 tvg-name="La Sexta" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+
 
 #EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
