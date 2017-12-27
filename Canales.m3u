@@ -9,7 +9,7 @@
 #EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",24 Horas
 
 
-#EXTINF:0 tvg-id="Antena3.sp" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-shift="+7",Antena 3
+#EXTINF:0 tvg-id="Antena3.sp" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-shift="+0",Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
 
 #EXTINF:0 tvg-name="Cuatro" tvg-logo="http://i63.tinypic.com/23hsn0p.jpg",Cuatro
