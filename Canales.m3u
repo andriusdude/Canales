@@ -1,18 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="La 1" tvg-logo="http://i68.tinypic.com/xgeb8k.jpg",La 1
+#EXTINF:0 tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
 
-#EXTINF:0,La 2
+#EXTINF:0 tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
 
-
-
-#EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="http://i64.tinypic.com/35a179d.jpg",24 Horas
+#EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",24 Horas
 
 
 #EXTINF:0 tvg-id="Antena3.sp" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-shift="+7",Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-
 
 #EXTINF:0 tvg-name="Cuatro" tvg-logo="http://i63.tinypic.com/23hsn0p.jpg",Cuatro
 
@@ -20,39 +18,30 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
 #EXTINF:0,Telecinco
 
 
-#EXTINF:0,tvg-name="La Sexta" tvg-logo="http://i67.tinypic.com/fu2v44.jpg",La Sexta
+#EXTINF:0 tvg-name="La Sexta" tvg-logo="http://i67.tinypic.com/fu2v44.jpg",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-
-
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:0,NEOX
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 
-#EXTINF:0,NOVA
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 
-
-
-#EXTINF:0,MEGA
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 #EXTINF:0,Energy
 
 
-
 #EXTINF:0,Divinity
 
 
-
-#EXTINF:0 group-title="Regionales",Telemadrid
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg" group-title="Regionales",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
 #EXTINF:0,13 TV
@@ -78,23 +67,18 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xK
 
 #EXTINF:0,Television de Galicia
 
+
 #EXTINF:0,EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 #EXTINF:0,Canal de Extremadura
-
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
 
-
-
 #EXTINF:0 group-title="ESPAÑA",Navarra Television
-
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 #EXTINF:0,Radio Television de Ceuta
-
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
 
 #EXTINF:0,Canal del Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
@@ -103,7 +87,6 @@ http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 #EXTINF:0,Real Madrid TV
-
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 
