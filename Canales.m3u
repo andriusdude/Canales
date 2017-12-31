@@ -1,23 +1,23 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+#EXTINF:0 tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1 TVE
 
 
 #EXTINF:0 tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
 
+ TVE
 
 
-
-#EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",24 Horas
+#EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",24 Horas TVE
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 
-#EXTINF:0 tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3
+#EXTINF:0 tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 (España)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 Internacional
+#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 (Internacional)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:0 tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
@@ -25,6 +25,14 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Galicia TV (America)
+
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Galicia TV (Europa)
+
+http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
@@ -51,14 +59,6 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 
 
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Television de Galicia (America)
-
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Television de Galicia (Europa)
-
-http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
@@ -99,7 +99,7 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_
 
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
-#EXTINF:0,Levante TV
+#EXTINF:0,Levante TV (Valencia)
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
 #EXTINF:0,7 TV (Murcia)
@@ -117,10 +117,10 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:0,Canarias TV
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
-#EXTINF:0,Canal 4 Tenerife
+#EXTINF:0,Canal 4 (Tenerife)
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
-#EXTINF:0,Radio Television de Ceuta
+#EXTINF:0,Ceuta RT
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 #EXTINF:0,Marca TV
