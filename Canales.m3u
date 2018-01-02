@@ -28,7 +28,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 Internacional
+#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 America
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 
@@ -56,8 +56,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
- América
-#http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
+ America
+http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia America
@@ -185,8 +185,7 @@ http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
 
 
 
@@ -240,6 +239,10 @@ http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 
 
+#EXTINF:0,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+
 
 
 #EXTINF:0,IB3 (Islas Baleares)
@@ -261,6 +264,10 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
 
+
+
+#EXTINF:0,Lancelot TV (Lanzarote)
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 
 #EXTINF:0,Ceuta RT
