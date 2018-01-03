@@ -7,17 +7,11 @@
 
 
 
-
-
 #EXTINF:0 tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",RTVE La 2
 
 
 
-
-
 #EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",RTVE 24 Horas
-
-
 
 
 
@@ -27,10 +21,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 
 
-
 #EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 America
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-
 
 
 
@@ -39,14 +31,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 
 
-
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
-
-
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
@@ -55,15 +43,14 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
- America
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta America
 http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
-
 
 
 
@@ -73,19 +60,16 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
-
 #EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 
 
-
 #EXTINF:0,Energy
 
-
-
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+
 
 
 #EXTINF:0 tvg-name="NEOX" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
@@ -93,23 +77,22 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 
+
 #EXTINF:0,FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
 
 
-
-
-
 #EXTINF:0 tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
+
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 
 
-
-
 #EXTINF:0,Divinity
+
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
 
 
 #EXTINF:0 tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
@@ -118,20 +101,18 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 
 
-
 #EXTINF:0,Be Mad
+
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+
 
 
 #EXTINF:0,Clan
 
 
-
 #EXTINF:0,Boing
+
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
-
-
-
 
 
 
@@ -141,11 +122,9 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 
 
-
 #EXTINF:0,La Otra (Madrid)
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
 
 
 
@@ -153,24 +132,17 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
-
-
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Aragon%20TV.jpg",Aragon TV
 
-
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-
 
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
 
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
-
 
 
 
@@ -181,19 +153,15 @@ http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698
 
 
 
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
 http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
 
 
 
-
 #EXTINF:0 tvg-logo=https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB (Pais Vasco)
 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
 
 
 
