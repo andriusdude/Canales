@@ -21,7 +21,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3 America
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203%20Internacional.jpg" tvg-id="Antena3.sp",Antena 3 America
+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 
@@ -43,12 +44,13 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta America
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta%20Internacional.jpg",La Sexta America
+
 http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia America
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
@@ -66,7 +68,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 
 
-#EXTINF:0,Energy
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
 
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
@@ -78,7 +80,8 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 
 
-#EXTINF:0,FDF
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
 
@@ -89,7 +92,7 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 
 
-#EXTINF:0,Divinity
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Divinity.jpg",Divinity
 
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
@@ -101,7 +104,7 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 
 
-#EXTINF:0,Be Mad
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
@@ -110,7 +113,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:0,Clan
 
 
-#EXTINF:0,Boing
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
@@ -122,7 +125,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 
 
-#EXTINF:0,La Otra (Madrid)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra (Madrid)
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
