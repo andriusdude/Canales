@@ -13,9 +13,9 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" tvg-id="Antena3.sp",Antena 3
+#EXTINF:0 tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
 
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8
 
 
 
@@ -39,6 +39,18 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+
+
+#EXTINF:0,Europa Press
+
+http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+
+
+
+#EXTINF:0,DW Español
+
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 
 
@@ -86,7 +98,6 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20y%20Leon%20Television.jpg",Castilla y Leon TV
 
-
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
 
 
@@ -105,17 +116,13 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
 
-
-
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Navarra%20Television.jpg",Navarra Television
 
-
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-
 
 
 
@@ -123,13 +130,12 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
-
+http://149.91.98.146:1935/cordoba/stream/playlist.m3u8
 
 
 #EXTINF:0,7 TV (Murcia)
 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
 
 
 
@@ -139,13 +145,14 @@ http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
 
 
 
-
 #EXTINF:0,Onda Cadiz
 
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 
 
+
 #EXTINF:0,Lebrija TV
+
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 
@@ -182,7 +189,7 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 #EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+https://atresplayers-i.akamaized.net/a3seriesmpp/master.m3u8
 
 
 
@@ -194,7 +201,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
 #EXTINF:0 tvg-name="NEOX" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+https://atresplayerp-i.akamaized.net/neoxmpp/master.m3u8
 
 
 
@@ -248,6 +255,24 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 #EXTINF:0,Movistar Futbol
 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
+
+
+#EXTINF:0,Movistar MotoGP
+
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+
+
+#EXTINF:0,Movistar Golf
+
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+
+
+#EXTINF:0,Movistar Formula 1
+
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
 
 
