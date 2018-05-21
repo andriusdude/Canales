@@ -3,7 +3,7 @@
 
 #EXTINF:0 tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23674.m3u8
 
 
 
@@ -42,7 +42,7 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 
 
-#EXTINF:0,Europa Press
+#EXTINF:0,Euronews
 
 http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 
@@ -51,6 +51,12 @@ http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:0,DW Español
 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+
+
+#EXTINF:0,CNN en español
+
+http://cdnlive.shooowit.net/europapresslive/ep.smil/mastfdafsaer.m3u8
 
 
 
@@ -72,15 +78,33 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra (Madrid)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 
 
-#EXTINF:0,8 TV (Barcelona)
+#EXTINF:0,TV 3 (Cataluña)
+
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+
+
+#EXTINF:0,8 TV (Cataluña)
 
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+
+
+
+#EXTINF:0,Canal Sur (Andalucía)
+
+http://streaming.8tv.cat/8TV/8aldia-directfdasfe/chunklist_w1365534365.m3u8
+
+
+
+#EXTINF:0,Andalucia TV
+
+http://streaming.8tv.cat/8TV/8aldia-directfdasfe/chunklist_w1365534365.m3u8
 
 
 
@@ -90,7 +114,7 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Asturias RTP
 
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
@@ -108,7 +132,13 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qp
 
 
 
-#EXTINF:0 tvg-logo=https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB (Pais Vasco)
+#EXTINF:0,Rioja Television
+
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s3fdafdasfa2.m3u8
+
+
+
+#EXTINF:0 tvg-logo=https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Pais Vasco
 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
@@ -126,20 +156,19 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 
 
-#EXTINF:0,Levante TV (Valencia)
+#EXTINF:0,A Punt Valencia
 
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
-http://149.91.98.146:1935/cordoba/stream/playlist.m3u8
 
 
-#EXTINF:0,7 TV (Murcia)
+#EXTINF:0,Canal 7 Murcia
 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 
-#EXTINF:0,Canal Costa (Huelva)
+#EXTINF:0,Canal Costa Huelva
 
 http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
 
@@ -151,31 +180,31 @@ http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 
 
 
-#EXTINF:0,Lebrija TV
+#EXTINF:0,Lebrija TV Sevilla
 
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 
 
-#EXTINF:0,IB3 (Islas Baleares)
+#EXTINF:0,IB3 Baleares
 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 
-#EXTINF:0,Canarias TV
+#EXTINF:0,TV Canaria
 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
 
 
-#EXTINF:0,Canal 4 (Tenerife)
+#EXTINF:0,Canal 4 Tenerife
 
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
 
 
-#EXTINF:0,Lancelot TV (Lanzarote)
+#EXTINF:0,Lanzarote TV
 
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
@@ -234,6 +263,10 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
 
+#EXTINF:0,DMAX
+
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
+
 
 #EXTINF:0,Clan
 
@@ -248,7 +281,12 @@ http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 #EXTINF:0,Teledeporte
 
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
+
+
+#EXTINF:0,GOL
+
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
 
@@ -258,33 +296,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/inde
 
 
 
-#EXTINF:0,Movistar MotoGP
-
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
-
-
-
-#EXTINF:0,Movistar Golf
-
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
-
-
-
-#EXTINF:0,Movistar Formula 1
-
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
-
-
-
 #EXTINF:0,La Liga TV
 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-
-
-
-#EXTINF:0,Marca TV
-
-http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
 
 
 
@@ -292,4 +306,15 @@ http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
+
+
+#EXTINF:0,Hola TV
+
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
+
+
+
+#EXTINF:0,Fashion TV
+
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/infdsafsdfsadex.m3u8
 
