@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-name="LA 1" tvg-id="LA1.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+#EXTINF:0 audio-track="es" tvg-name="LA 1" tvg-id="LA1.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23674.m3u8
 
