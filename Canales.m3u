@@ -37,13 +37,13 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="TVE 24 Horas" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
+#EXTINF:0 tvg-name="24 Horas" tvg-id="24Horas.sp" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 
 
-#EXTINF:0,Euronews
+#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews.es" group-title="Noticias",Euronews
 
 http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 
@@ -55,31 +55,25 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 
 
-#EXTINF:0,CNN en español
-
-http://cdnlive.shooowit.net/europapresslive/ep.smil/mastfdafsaer.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
+#EXTINF:0 tvg-name="TVG" tvg-id="TVG.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
+#EXTINF:0 tvg-name="Telemadrid" tvg-id="Telemadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+#EXTINF:0 tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
