@@ -19,19 +19,19 @@ https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
+#EXTINF:0 tvg-name="Cuatro" tvg-id="Cuatro.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
+#EXTINF:0 tvg-name="Telecinco" tvg-id="Telecinco.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
+#EXTINF:0 tvg-name="La Sexta" tvg-id="LaSexta.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
