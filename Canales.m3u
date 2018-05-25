@@ -3,7 +3,7 @@
 
 #EXTINF:0 tvg-name="LA 1" tvg-id="LA1.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
-http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23674.m3u8
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 
 
@@ -33,7 +33,7 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 
 #EXTINF:0 tvg-name="La Sexta" tvg-id="LaSexta.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8
 
 
 
