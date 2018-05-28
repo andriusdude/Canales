@@ -7,49 +7,49 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="LA 2" tvg-id="LA2.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
+#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Antena 3" tvg-id="Antena3.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
+#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
 
 https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Cuatro" tvg-id="Cuatro.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
+#EXTINF:0 audio-track="es" tvg-name="Cuatro" tvg-id="Cuatro.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
 
 
-#EXTINF:0 tvg-name="Telecinco" tvg-id="Telecinco.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
+#EXTINF:0 audio-track="es" tvg-name="Telecinco" tvg-id="Telecinco.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 
 
 
-#EXTINF:0 tvg-name="La Sexta" tvg-id="LaSexta.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
+#EXTINF:0 audio-track="es" tvg-name="La Sexta" tvg-id="LaSexta.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
 https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="24 Horas" tvg-id="24Horas.sp" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
+#EXTINF:0 audio-track="es" tvg-name="24 Horas" tvg-id="24Horas.sp" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 
 
-#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews.es" group-title="Noticias",Euronews
+#EXTINF:0 audio-track="es" tvg-name="Euronews" tvg-id="Euronews.es" group-title="Noticias",Euronews
 
 http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 
 
 
-#EXTINF:0,DW Español
+#EXTINF:0,DW en español
 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
@@ -91,12 +91,6 @@ http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
 
 
-#EXTINF:0,Canal Sur (Andalucía)
-
-http://streaming.8tv.cat/8TV/8aldia-directfdasfe/chunklist_w1365534365.m3u8
-
-
-
 #EXTINF:0,Andalucia TV
 
 http://streaming.8tv.cat/8TV/8aldia-directfdasfe/chunklist_w1365534365.m3u8
@@ -109,7 +103,7 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Asturias RTP
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Asturias TV
 
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
@@ -127,7 +121,7 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qp
 
 
 
-#EXTINF:0,Rioja Television
+#EXTINF:0,Rioja TV
 
 http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s3fdafdasfa2.m3u8
 
@@ -151,63 +145,27 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 
 
-#EXTINF:0,A Punt Valencia
+#EXTINF:0,Valencia TV
 
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
 
 
-#EXTINF:0,Canal 7 Murcia
+#EXTINF:0,Canal Murcia
 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 
-#EXTINF:0,Canal Costa Huelva
-
-http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
-
-
-
-#EXTINF:0,Onda Cadiz
-
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-
-
-
-#EXTINF:0,Lebrija TV Sevilla
-
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-
-
-#EXTINF:0,IB3 Baleares
+#EXTINF:0,Canal Baleares
 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 
-#EXTINF:0,TV Canaria
+#EXTINF:0,Canarias TV
 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-
-
-
-#EXTINF:0,Canal 4 Tenerife
-
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-
-
-
-#EXTINF:0,Lanzarote TV
-
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-
-
-#EXTINF:0,Ceuta RT
-
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 
 
@@ -286,18 +244,6 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
 
-#EXTINF:0,Movistar Futbol
-
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-
-
-
-#EXTINF:0,La Liga TV
-
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg",Real Madrid TV
 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
@@ -308,9 +254,4 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
-
-
-#EXTINF:0,Fashion TV
-
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/infdsafsdfsadex.m3u8
 
