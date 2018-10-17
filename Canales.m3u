@@ -15,7 +15,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
 #EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
 
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 
 
 
@@ -33,13 +33,14 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 
 #EXTINF:0 audio-track="es" tvg-name="La Sexta" tvg-id="LaSexta.sp" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
-https://livepull1.secure.footprint.net/lasextampp/master.m3u8
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
 
 
 
 #EXTINF:0 audio-track="es" tvg-name="24 Horas" tvg-id="24Horas.sp" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8
+
 
 
 #EXTINF:0 audio-track="es" tvg-name="Euronews" tvg-id="Euronews.es" group-title="Noticias",Euronews
