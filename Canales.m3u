@@ -1,31 +1,31 @@
 #EXTM3U
 
 
-#EXTINF:0 audio-track="es" tvg-name="LA 1" tvg-id="LA1.es" tvg-shift="-7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+#EXTINF:0 audio-track="es" tvg-name="LA 1" tvg-id="LA1.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="-7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
+#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
+#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
 
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="Cuatro" tvg-id="Cuatro.es" tvg-shift="-7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
+#EXTINF:0 audio-track="es" tvg-name="Cuatro" tvg-id="Cuatro.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="Telecinco" tvg-id="Telecinco.es" tvg-shift="-7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
+#EXTINF:0 audio-track="es" tvg-name="Telecinco" tvg-id="Telecinco.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 
