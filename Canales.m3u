@@ -7,7 +7,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
+#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
