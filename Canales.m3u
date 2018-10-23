@@ -13,7 +13,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="-7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
+#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="+7" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
 
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 
