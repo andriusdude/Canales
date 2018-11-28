@@ -158,7 +158,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 
-#EXTINF:0 tvg-name="Canarias TV" tvg-id="TvCanaria.es",Canarias TV
+#EXTINF:0 tvg-name="Canarias TV" tvg-id="TvCanaria.sp",Canarias TV
 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
@@ -182,7 +182,7 @@ https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-id="FDF.sp" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
