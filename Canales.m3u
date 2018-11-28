@@ -92,8 +92,7 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="CanalAndalucia.es" tvg-shift="0",Andalucia TV
 
-http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
-
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Aragon%20TV.jpg",Aragon TV
@@ -107,11 +106,9 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20y%20Leon%20Television.jpg",Castilla y Leon TV
 
-http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
@@ -169,8 +166,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 #EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
-https://atresplayers-i.akamaized.net/a3seriesmpp/master.m3u8
-
+https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
@@ -181,8 +177,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
 #EXTINF:0 tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 
-https://livepull1.secure.footprint.net/neoxmpp/master.m3u8
-
+https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
 #EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
@@ -193,8 +188,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
 #EXTINF:0 tvg-id="Nova.es" tvg-shift="0" tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
 
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
+https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8
 
 
 #EXTINF:0 tvg-id="Divinity.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Divinity.jpg",Divinity
@@ -205,8 +199,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:0 tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
+https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
