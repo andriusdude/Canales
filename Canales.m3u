@@ -7,13 +7,13 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 
 
 
-#EXTINF:0 tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
+#EXTINF:0 tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Spanish" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 
 
-#EXTINF:0 tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="0" group-title="General" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
+#EXTINF:0 tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="0" group-title="Spanish" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
 
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 
@@ -164,12 +164,12 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 
 
-#EXTINF:0 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+#EXTINF:0 tvg-name="Atreseries" tvg-id="A3seriesHD.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
+#EXTINF:0 tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
 
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
@@ -180,7 +180,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
-#EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-id="FDF.sp" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
@@ -197,7 +197,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
+#EXTINF:0 tvg-name="MEGA" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
 
 https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 
