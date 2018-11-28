@@ -48,10 +48,10 @@ http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 
 
 
-#EXTINF:0 tvg-name"DW" tvg-id="DeutscheWelle.ar",DW en español
+#EXTINF:0 tvg-name"DW" tvg-id="DeutscheWelleEs.de",DW en español
 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
+	
 
 
 #EXTINF:0 tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
@@ -246,8 +246,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us", Hola TV
-
+#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="50", Hola TV
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
 
