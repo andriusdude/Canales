@@ -164,7 +164,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 
 
-#EXTINF:0 tvg-name="Atreseries" tvg-id="A3seriesHD.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+#EXTINF:0 tvg-name="Atreseries" tvg-id="Atreseries.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
@@ -180,7 +180,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
-#EXTINF:0 tvg-id="FDF.sp" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
@@ -202,7 +202,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
+#EXTINF:0 tvg-name="Be Mad" tvg-id="BeMad.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
