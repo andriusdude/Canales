@@ -229,12 +229,12 @@ http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es"
+#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es", Teledeporte
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
 
 
-#EXTINF:0 tvg-name="Gol" tvg-id="Gol.es",GOL
+#EXTINF:0 tvg-name="Gol" tvg-id="Gol.es",Gol
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
@@ -246,7 +246,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us"
+#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us", Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
