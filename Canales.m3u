@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:0 audio-track="es" tvg-name="LA 1" tvg-id="LA1.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+#EXTINF:0 tvg-name="LA 1" tvg-id="LA1.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg" audio-track="es",La 1
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg",La 2
+#EXTINF:0 tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 
 
-#EXTINF:0 audio-track="es" tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="0" group-title="Generales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg",Antena 3
+#EXTINF:0 tvg-name="Antena 3" tvg-id="Antena3.es" tvg-shift="0" group-title="General" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
 
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 
@@ -54,7 +54,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+#EXTINF:0 tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
