@@ -229,18 +229,18 @@ http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es", Teledeporte
+#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS", Teledeporte
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
 
 
-#EXTINF:0 tvg-name="Gol" tvg-id="Gol.es",Gol
+#EXTINF:0 tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es",Gol
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
 
-#EXTINF:0 tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg",Real Madrid TV
+#EXTINF:0 tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg",Real Madrid TV
 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
