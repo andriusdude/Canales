@@ -164,7 +164,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 
 
-#EXTINF:0 tvg-name="Atreseries" tvg-id="Atreseries.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+#EXTINF:0 tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
