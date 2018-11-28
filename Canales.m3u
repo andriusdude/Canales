@@ -207,18 +207,18 @@ https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
 
-#EXTINF:0,DMAX
+#EXTINF:0 tvg-name="DMAX" tvg-id="DMAX.es" ,DMAX
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
-#EXTINF:0,Clan
+#EXTINF:0 tvg-name="Clan TVE" tvg-id="ClanTVE.es" ,Clan
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrafda.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
+#EXTINF:0 tvg-name="Boing" tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
