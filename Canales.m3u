@@ -42,7 +42,7 @@ https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
 
 
-#EXTINF:0 audio-track="es" tvg-name="Euronews" tvg-id="Euronews.es" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Euronews.jpg",Euronews
+#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews.es" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Euronews.jpg",Euronews
 
 http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 
