@@ -66,7 +66,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-name="Telemadrid" tvg-id="Telemadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
+#EXTINF:0 tvg-name="Telemadrid" tvg-id="TeleMadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
@@ -78,19 +78,19 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="TV3Catalunya.es",TV 3 (Cataluña)
+#EXTINF:0 tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV 3 (Cataluña)
 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
 
 
-#EXTINF:0,8 TV (Cataluña)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8 TV (Cataluña)
 
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="CanalAndalucia.es" tvg-shift="0",Andalucia TV
+#EXTINF:0 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Andalucia TV
 
 http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 
@@ -128,7 +128,7 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
+#EXTINF:0 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
 
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
@@ -182,7 +182,7 @@ https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="FDF.sp" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
