@@ -122,7 +122,7 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qp
 
 
 
-#EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo=https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Pais Vasco
+#EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Pais Vasco
 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
