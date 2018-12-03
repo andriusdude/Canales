@@ -145,7 +145,7 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 
 
-#EXTINF:0 tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/APunt.jpg",A Punt Valencia
+#EXTINF:0 tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",A Punt Valencia
 
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
