@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-chno="" tvg-name="LA 1 ES" tvg-id="LA1.es" tvg-language="Spanish" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
+#EXTINF:0 tvg-chno="001" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
 
 
 
-#EXTINF:0 tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Spanish" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
+#EXTINF:0 tvg-chno="002" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Spanish" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
@@ -52,18 +52,18 @@ http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:0 tvg-name"DW" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-	
-
-
-#EXTINF:0 tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
-
-http://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
-http://europa-crtvg.flumotion.com/playlist.m3u8
+http://europa-crtvg.flumotion.com/playlist.m3u8	
+
+
+
+#EXTINF:0 tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+
+http://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -145,25 +145,25 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 
 
-#EXTINF:0 tvg-name"Levante TV",Valencia TV
+#EXTINF:0 tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/APunt.jpg",A Punt Valencia
 
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="7tv.es" ,Canal Murcia
+#EXTINF:0 tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,Canal Murcia
 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="IB3.es" ,Canal Baleares
+#EXTINF:0 tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg" ,IB3 Baleares
 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 
-#EXTINF:0 tvg-name="Canarias TV" tvg-id="TvCanaria.es",Canarias TV
+#EXTINF:0 tvg-name="TV Canaria" tvg-id="TvCanaria.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,TV Canaria
 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
@@ -223,7 +223,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
 
-#EXTINF:0 tvg-name="Clan TVE" tvg-id="ClanTVE.es" ,Clan
+#EXTINF:0 tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrafda.m3u8
 
@@ -235,7 +235,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS", Teledeporte
+#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
 
