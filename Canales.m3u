@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-chno="001" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
-x
+
 
 
 #EXTINF:0 tvg-chno="002" tvg-name="LA 2" tvg-id="LA2.es" tvg-shift="0" group-title="Spanish" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
