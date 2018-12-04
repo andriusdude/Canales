@@ -123,8 +123,7 @@ http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg" ,Rioja TV
 
-http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s3fdafdasfa2.m3u8
-
+http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Pais Vasco
@@ -147,7 +146,7 @@ http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 #EXTINF:0 tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",A Punt Valencia
 
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 
 
 
@@ -217,12 +216,6 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name="DMAX" tvg-id="Dmax.es",DMAX
-
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
-
-
-
 #EXTINF:0 tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrafda.m3u8
@@ -241,7 +234,7 @@ http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
 
 
 
-#EXTINF:0 tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es",Gol
+#EXTINF:0 tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Gol.jpg",Gol
 
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
@@ -253,13 +246,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE", Hola TV
+#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
 
 
-#EXTINF:0 tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE", Fashion TV
+#EXTINF:0 tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
 
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
