@@ -57,7 +57,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:0 tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
-http://europa-crtvg.flumotion.com/playlist.m3u8	
+http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -255,5 +255,3 @@ http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 #EXTINF:0 tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
 
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
-
