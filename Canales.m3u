@@ -240,18 +240,24 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
 
 
 
-#EXTINF:0 tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg",Real Madrid TV
+#EXTINF:0 tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg" ,Real Madrid TV
 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 
 
-#EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
+#EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
 
 
-#EXTINF:0 tvg-chno="061" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
+#EXTINF:0 tvg-chno="061" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,Fashion TV
 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+
+
+
+#EXTINF:0 tvg-chno="101" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del Congreso
+
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
