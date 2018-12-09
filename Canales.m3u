@@ -103,7 +103,7 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Asturias TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
 
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
@@ -121,18 +121,18 @@ http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg" ,Rioja TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg" ,Televisión Rioja
 
 http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Pais Vasco
+#EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Canal Vasco
 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
+#EXTINF:0 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura TV
 
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
@@ -150,7 +150,7 @@ https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZT
 
 
 
-#EXTINF:0 tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,Canal Murcia
+#EXTINF:0 tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,7 TV Murcia
 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
@@ -258,6 +258,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 
 
-#EXTINF:0 tvg-chno="101" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del Congreso
+#EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del Congreso
 
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
