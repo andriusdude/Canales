@@ -216,7 +216,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
+#EXTINF:0 tvg-chno="040" tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
 
 http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrafda.m3u8
 
@@ -228,7 +228,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
+#EXTINF:0 tvg-chno="050" tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
 
@@ -246,12 +246,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-chno="050" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
+#EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
 
 
-#EXTINF:0 tvg-chno="051" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
+#EXTINF:0 tvg-chno="061" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
