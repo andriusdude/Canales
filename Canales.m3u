@@ -67,31 +67,31 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-name="Telemadrid" tvg-id="TeleMadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
+#EXTINF:0 tvg-chno="012" tvg-name="Telemadrid" tvg-id="TeleMadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
 
 
-#EXTINF:0 tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+#EXTINF:0 tvg-chno="013" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV 3 (Cataluña)
+#EXTINF:0 tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV 3 Cataluña
 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8 TV (Cataluña)
+#EXTINF:0 tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8 TV Cataluña
 
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Andalucia TV
+#EXTINF:0 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
 http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 
@@ -180,13 +180,13 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
+#EXTINF:0 tvg-chno="030" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 
 https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-chno="031" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
@@ -246,12 +246,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
+#EXTINF:0 tvg-chno="050" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg", Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
 
 
-#EXTINF:0 tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
+#EXTINF:0 tvg-chno="051" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg", Fashion TV
 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
