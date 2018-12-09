@@ -168,25 +168,25 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 
 
-#EXTINF:0 tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+#EXTINF:0 tvg-chno="030" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
+#EXTINF:0 tvg-chno="031" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
 
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
 
 
-#EXTINF:0 tvg-chno="030" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
+#EXTINF:0 tvg-chno="032" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 
 https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="031" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+#EXTINF:0 tvg-chno="033" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
