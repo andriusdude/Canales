@@ -156,7 +156,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg" ,IB3 Baleares
+#EXTINF:0 tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg" ,IB 3 Baleares
 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
@@ -246,7 +246,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
-#EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" tvg-chno="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
+#EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
 http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
 
