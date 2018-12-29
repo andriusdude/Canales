@@ -292,12 +292,25 @@ https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 #EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Multimedios TV
 
 
+
 #EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
 
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Once TV
+
+http://bit.ly/2CG3ALh
+
+
+
 #EXTINF:0 tvg-chno="114.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Ingenio TV
 
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Teleformula
+
+http://bit.ly/2Le41S2
