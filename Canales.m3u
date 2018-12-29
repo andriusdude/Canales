@@ -15,7 +15,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
 #EXTINF:0 tvg-chno="003" tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
 
-https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
+https://pull2b-i.akamaized.net/antena3/master.m3u8
 
 
 
@@ -261,3 +261,43 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del Congreso
 
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+
+#EXTINF:0 tvg-chno="102.1" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal de las estrellas
+
+
+
+#EXTINF:0 tvg-chno="104" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4
+
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="104.1" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.1
+
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="104.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.2
+
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="105" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal 5
+
+
+
+#EXTINF:0 tvg-chno="105" tvg-name="" tvg-id="" group-title"" tvg-logo="",Multimedios TV
+
+
+#EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
+
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+
+
+#EXTINF:0 tvg-chno="114.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Ingenio TV
+
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
