@@ -263,7 +263,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 
+
 #EXTINF:0 tvg-chno="102.1" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal de las estrellas
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 
 
 
@@ -273,13 +276,13 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="104,1" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.1
+#EXTINF:0 tvg-chno="104.1" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.1
 
 https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="104-2" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.2
+#EXTINF:0 tvg-chno="104.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.2
 
 https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 
@@ -287,15 +290,13 @@ https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:0 tvg-chno="105" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal 5
 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+
 
 
 #EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Multimedios TV
 
-
-
-#EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
-
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
 
 
 
@@ -311,6 +312,36 @@ http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Azteca 7
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+
+
+
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Azteca 1
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+
+
+
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",ADN 40
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+
+
+
+#EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
+
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+
+
 #EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Teleformula
 
 http://bit.ly/2Le41S2
+
+
+
+#EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Foro TV
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
