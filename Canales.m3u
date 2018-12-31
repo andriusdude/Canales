@@ -156,7 +156,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 
-#EXTINF:0 tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg" ,IB 3 Baleares
+#EXTINF:0 tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg" ,IB3 Baleares
 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
@@ -218,25 +218,25 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
 #EXTINF:0 tvg-chno="040" tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
 
-http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrafda.m3u8
+http://rawr.m3u8
 
 
 
 #EXTINF:0 tvg-name="Boing" tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
 
-http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+http://rawr.m3u8
 
 
 
 #EXTINF:0 tvg-chno="050" tvg-name=Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
 
-http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23671.m3u8
+http://rawr.m3u8
 
 
 
 #EXTINF:0 tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Gol.jpg",Gol
 
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_3312.m3u8
+http://rawr.m3u8
 
 
 
@@ -248,7 +248,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 #EXTINF:0 tvg-chno="060" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
-http://tvpremiumhd.club/lista-gratuita/apple/tv/l/15048.m3u8
+http://rawr.m3u8
 
 
 
@@ -331,6 +331,8 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
 
 
 #EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
+
+http://rawr.m3u8
 
 
 
