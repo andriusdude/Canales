@@ -33,7 +33,7 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 
 #EXTINF:0 tvg-chno="006" tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-country="ES" tvg-language="Spanish"  group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
-https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
+https://pull2c-i.akamaized.net/lasexta/master.m3u8
 
 
 
@@ -105,7 +105,7 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
 
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+https://rtpa-live-hls.flumotion.com/chunks.m3u8
 
 
 
@@ -171,7 +171,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b48
 
 #EXTINF:0 tvg-chno="030" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
-https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
+https://pull2a-i.akamaized.net/a3series/master.m3u8
 
 
 
@@ -183,7 +183,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
 #EXTINF:0 tvg-chno="032" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
 
-https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
+https://pull2b-i.akamaized.net/neox/master.m3u8
 
 
 
@@ -195,7 +195,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
 #EXTINF:0 tvg-id="Nova.es" tvg-shift="0" tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
 
-https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8
+https://pull2c-i.akamaized.net/nova/master.m3u8
 
 
 
@@ -207,7 +207,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:0 tvg-name="MEGA" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
 
-https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
+https://pull2a-i.akamaized.net/mega/master.m3u8
 
 
 
@@ -259,7 +259,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 
 
-#EXTINF:0 tvg-chno="062" tvg-name="" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,HD Fashion Lifestyle
+#EXTINF:0 tvg-chno="062" tvg-name="" tvg-id="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,HD Fashion Lifestyle
 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
