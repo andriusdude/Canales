@@ -126,6 +126,7 @@ http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7
 http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 
 
+
 #EXTINF:0 tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",EITB Canal Vasco
 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
@@ -242,7 +243,7 @@ http://rawr.m3u8
 
 #EXTINF:0 tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg" ,Real Madrid TV
 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
 
 
@@ -258,7 +259,13 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 
 
-#EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del Congreso
+#EXTINF:0 tvg-chno="062" tvg-name="" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,HD Fashion Lifestyle
+
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
+
+#EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del congreso
 
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
@@ -302,7 +309,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
 
 #EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Once TV
 
-http://bit.ly/2CG3ALh
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
 
@@ -332,13 +339,13 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
 
 #EXTINF:0 tvg-chno="106.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
 
-http://rawr.m3u8
+http://tvpremiumhd.club/lista-gratuita/212928/on/live.php?id=bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
 
 #EXTINF:0 tvg-chno="" tvg-name="" tvg-id="" group-title"" tvg-logo="",Teleformula
 
-http://bit.ly/2Le41S2
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 
 
