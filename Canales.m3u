@@ -21,13 +21,13 @@ https://pull2b-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:0 tvg-chno="004" tvg-id="Cuatro.es" tvg-name="Cuatro ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
 
 
 #EXTINF:0 tvg-chno="005" tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 
 
@@ -39,8 +39,7 @@ https://pull2c-i.akamaized.net/lasexta/master.m3u8
 
 #EXTINF:0 tvg-chno="007" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
-
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 
 #EXTINF:0 tvg-chno="008" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
