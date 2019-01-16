@@ -37,7 +37,7 @@ https://pull2c-i.akamaized.net/lasexta/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="007" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
+#EXTINF:0 tvg-chno="007" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",TVE 24 Horas
 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
