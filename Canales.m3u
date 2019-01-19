@@ -3,7 +3,7 @@
 
 #EXTINF:0 tvg-chno="001" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 
 
 
@@ -84,13 +84,13 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playli
 
 
 
-#EXTINF:0 tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8 TV Cataluña
+#EXTINF:0 tvg-chno="015" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8 TV Cataluña
 
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
+#EXTINF:0 tvg-chno="016" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
 http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 
