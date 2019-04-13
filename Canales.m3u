@@ -49,7 +49,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:0 tvg-chno="9" tvg-name"Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+#EXTINF:0 tvg-chno="9" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
