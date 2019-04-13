@@ -15,7 +15,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
 #EXTINF:0 tvg-chno="3" tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
 
-https://pull2b-i.akamaized.net/antena3/master.m3u8
+https://livestartover.atresmedia.com/antena3/master.m3u8
 
 
 
@@ -33,7 +33,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 #EXTINF:0 tvg-chno="6" tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-country="ES" tvg-language="Spanish"  group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
-https://pull2c-i.akamaized.net/lasexta/master.m3u8
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 
 
@@ -93,19 +93,19 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 #EXTINF:0 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
-http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/chunklist_b628000.m3u8
 
 
 
 #EXTINF:0 tvg-chno="17" tvg-id="AragonTV.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Aragon%20TV.jpg",Aragón TV
 
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
-#EXTINF:0 tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
+#EXTINF:0 tvg-chno="18" tvg-id="RTP Asturias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
 
-https://rtpa-live-hls.flumotion.com/chunks.m3u8
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 
 
 
