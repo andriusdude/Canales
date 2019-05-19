@@ -9,7 +9,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 
 #EXTINF:0 tvg-chno="2" tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
 
@@ -75,7 +75,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 #EXTINF:0 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8
 
 
 
@@ -265,6 +265,48 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
+#EXTINF:0 tvg-chno="80" tvg-name="" tvg-id="",Radio Nacional
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="83" tvg-name="" tvg-id="",Radio Tres
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="85" tvg-name="" tvg-id="",Radio Cinco
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="86" tvg-name="" tvg-id="",Radio Clásica
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
+
+
+
+#EXTINF:0 tvg-chno="87" tvg-name="" tvg-id="",Radio Exterior
+
+http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
+
+
+#EXTINF:0 tvg-chno="89" tvg-name="" tvg-id="",Radio Galega
+
+http://195.10.10.206/radiogalega/live.mp3
+
+
+
+
+
+#EXTINF:0 tvg-chno="95" tvg-name="" tvg-id="",Onda Cero
+
+http://icecast-streaming.nice264.com/ondacero
+
+
 #EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del congreso
 
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
@@ -273,7 +315,6 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 #EXTINF:0 tvg-chno="101" tvg-name="" tvg-id="" group-title"" tvg-logo="",Azteca 1
 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
 
