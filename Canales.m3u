@@ -3,7 +3,7 @@
 
 #EXTINF:0 tvg-chno="1" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 
 
@@ -75,7 +75,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 #EXTINF:0 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
-http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 
 
 
