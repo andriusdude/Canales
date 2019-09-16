@@ -265,132 +265,66 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
-#EXTINF:0 tvg-chno="80" tvg-name="" tvg-id="",Radio Nacional
+#EXTINF:0 tvg-chno="500" tvg-name="" tvg-id="",Radio Nacional
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="83" tvg-name="" tvg-id="",Radio Tres
+#EXTINF:0 tvg-chno="503" tvg-name="" tvg-id="",Radio Tres
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="85" tvg-name="" tvg-id="",Radio Cinco
+#EXTINF:0 tvg-chno="505" tvg-name="" tvg-id="",Radio Cinco
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="86" tvg-name="" tvg-id="",Radio Clásica
+#EXTINF:0 tvg-chno="506" tvg-name="" tvg-id="",Radio Clásica
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="87" tvg-name="" tvg-id="",Radio Exterior
+#EXTINF:0 tvg-chno="507" tvg-name="" tvg-id="",Radio Exterior
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
 
 
-#EXTINF:0 tvg-chno="89" tvg-name="" tvg-id="",Radio Galega
+
+#EXTINF:0 tvg-chno="510" tvg-name="" tvg-id="",Radio Galega
 
 http://195.10.10.206/radiogalega/live.mp3
 
 
 
+#EXTINF:0 tvg-chno="520" tvg-name="" tvg-id="",Radio Voz
+
+http://live.radiovoz.es/mp3/stream_santiago.mp3
 
 
-#EXTINF:0 tvg-chno="95" tvg-name="" tvg-id="",Onda Cero
+
+#EXTINF:0 tvg-chno="530" tvg-name="" tvg-id="",Onda Cero
 
 http://icecast-streaming.nice264.com/ondacero
 
 
-#EXTINF:0 tvg-chno="100" tvg-name="Canal del Congreso" tvg-id="" group-title"" tvg-logo="",Canal del congreso
 
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:0 tvg-chno="540" tvg-name="" tvg-id="",Cadena Ser
 
-
-
-#EXTINF:0 tvg-chno="101" tvg-name="" tvg-id="" group-title"" tvg-logo="",Azteca 1
-
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
 
 
-#EXTINF:0 tvg-chno="102" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal de las estrellas
+#EXTINF:0 tvg-chno="541" tvg-name="" tvg-id="",Cadena Ser Vigo
 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-
-
-
-#EXTINF:0 tvg-chno="104" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4
-
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
 
 
 
-#EXTINF:0 tvg-chno="104.1" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.1
+#EXTINF:0 tvg-chno="542" tvg-name="" tvg-id="",Cadena Ser Baixo Miño
 
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-chno="104.2" tvg-name="" tvg-id="" group-title"" tvg-logo="",TV Cuatro 4.2
-
-https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-chno="105" tvg-name="" tvg-id="" group-title"" tvg-logo="",Canal 5
-
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-
-
-
-#EXTINF:0 tvg-chno="106" tvg-name="" tvg-id="" group-title"" tvg-logo="",Multimedios TV
-
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-
-
-
-#EXTINF:0 tvg-chno="107" tvg-name="" tvg-id="" group-title"" tvg-logo="",Azteca 7
-
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-
-
-
-#EXTINF:0 tvg-chno="111" tvg-name="" tvg-id="" group-title"" tvg-logo="",Once TV
-
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-chno="112" tvg-name="" tvg-id="" group-title"" tvg-logo="",Ingenio TV
-
-http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-chno="113" tvg-name="" tvg-id="" group-title"" tvg-logo="",ADN 40
-
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-
-
-
-#EXTINF:0 tvg-chno="114" tvg-name="" tvg-id="" group-title"" tvg-logo="",Milenio TV
-
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-
-
-#EXTINF:0 tvg-chno="115" tvg-name="" tvg-id="" group-title"" tvg-logo="",Teleformula
-
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-chno="116" tvg-name="" tvg-id="" group-title"" tvg-logo="",Foro TV
-
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BAIXOMINO.mp3
