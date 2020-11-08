@@ -15,31 +15,31 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
 
-https://a3m-a3-vod-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
+https://livestartover.atresmedia.com/antena3/master.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Cuatro.es" tvg-name="Cuatro ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telecinco.jpg",Telecinco
 
-https://mdst-t5-live-dash.secure.footprint.net/live/nas_live/t5/dash/t5.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=04dd1203c4e2c03dbc7071e7671a4bbb1e04e376c
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/03.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="6" tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-country="ES" tvg-language="Spanish"  group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Sexta.jpg",La Sexta
 
-https://a3m-la6-vod-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="7" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 
 
@@ -61,7 +61,13 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+#EXTINF:-1 tvg-chno="10.5" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
+
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11.1" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
@@ -141,7 +147,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 
 #EXTINF:0 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Navarra%20Television.jpg",Navarra Televisión
 
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 
 
 
@@ -165,7 +171,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 #EXTINF:0 tvg-chno="28" tvg-name="TV Canaria" tvg-id="TvCanaria.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,TV Canaria
 
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 
 
 
@@ -177,7 +183,7 @@ https://livestartover.atresmedia.com/a3series/master.m3u8
 
 #EXTINF:0 tvg-chno="31" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
 
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 
 
 
@@ -189,7 +195,7 @@ https://pull2b-i.akamaized.net/neox/master.m3u8
 
 #EXTINF:0 tvg-chno="33" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
 
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 
 
 
@@ -201,7 +207,7 @@ https://livestartover.atresmedia.com/nova/master.m3u8
 
 #EXTINF:0 tvg-chno="35" tvg-id="Divinity.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Divinity.jpg",Divinity
 
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 
 
 
@@ -213,7 +219,7 @@ https://livestartover.atresmedia.com/mega/master.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-name="Be Mad" tvg-id="BeMad.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
 
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
 
 
 
@@ -225,7 +231,7 @@ http://clan.m3u8
 
 #EXTINF:0 tvg-chno="41" tvg-name="Boing" tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
 
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
 
 
