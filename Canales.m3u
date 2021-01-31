@@ -21,7 +21,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Cuatro.es" tvg-name="Cuatro ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Cuatro.jpg",Cuatro
 
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8
+https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
 
 
 
