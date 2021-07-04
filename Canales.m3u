@@ -43,13 +43,19 @@ https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="8" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
+#EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
+
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="9.1" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+#EXTINF:-1 tvg-chno="9.2" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
 
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
@@ -61,13 +67,13 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="10.5" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
+#EXTINF:-1 tvg-chno="10.1" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
 https://amodino-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11.1" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+#EXTINF:-1 tvg-chno="11" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
