@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 
 
@@ -39,7 +39,7 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
 
@@ -57,7 +57,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-chno="9.2" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
 
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
 
