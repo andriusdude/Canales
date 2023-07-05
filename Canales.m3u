@@ -105,7 +105,7 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 
 
@@ -115,9 +115,9 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
-#EXTINF:0 tvg-chno="18" tvg-id="RTP Asturias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",RTP Asturias
+#EXTINF:0 tvg-chno="18" tvg-id="RTP Asturias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Televisión de Asturias
 
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8
 
 
 
@@ -129,25 +129,25 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
 #EXTINF:0 tvg-chno="20" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
-http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 
 
 #EXTINF:0 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg",Televisión Rioja
 
-http://teledifusion.tv/rioja/rioja/master.m3u8
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-chno="22" tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco
 
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 
 
 #EXTINF:0 tvg-chno="23" tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
 
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 
 
@@ -159,19 +159,19 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 
 #EXTINF:0 tvg-chno="25" tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",A Punt Valencia
 
-https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
 
 
 #EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,7 TV Murcia
 
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="27" tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg",IB3 Baleares
+#EXTINF:0 tvg-chno="27" tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg",Canal Baleares
 
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 
 
