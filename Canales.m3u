@@ -9,7 +9,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 
 
@@ -43,19 +43,25 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
+#EXTINF:-1 tvg-chno="8.1" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",El Pais
+
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="9.1" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9.1" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
+#EXTINF:-1 tvg-chno="9.2" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9.2" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+#EXTINF:-1 tvg-chno="9.3" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -277,66 +283,68 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
-#EXTINF:0 tvg-chno="500" tvg-name="" tvg-id="",Radio Nacional
+#EXTINF:0 tvg-chno="1000" tvg-name="" tvg-id="",Radio Nacional
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="503" tvg-name="" tvg-id="",Radio Tres
+#EXTINF:0 tvg-chno="1003" tvg-name="" tvg-id="",Radio Tres
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="505" tvg-name="" tvg-id="",Radio Cinco
+#EXTINF:0 tvg-chno="1005" tvg-name="" tvg-id="",Radio Cinco
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="506" tvg-name="" tvg-id="",Radio Clásica
+#EXTINF:0 tvg-chno="1006" tvg-name="" tvg-id="",Radio Clásica
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="507" tvg-name="" tvg-id="",Radio Exterior
+#EXTINF:0 tvg-chno="1007" tvg-name="" tvg-id="",Radio Exterior
 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="510" tvg-name="" tvg-id="",Radio Galega
+#EXTINF:0 tvg-chno="1010" tvg-name="" tvg-id="",Radio Galega
 
 http://195.10.10.206/radiogalega/live.mp3
 
 
 
-#EXTINF:0 tvg-chno="520" tvg-name="" tvg-id="",Radio Voz
+#EXTINF:0 tvg-chno="1020" tvg-name="" tvg-id="",Radio Voz
 
 http://live.radiovoz.es/mp3/stream_santiago.mp3
 
 
 
-#EXTINF:0 tvg-chno="530" tvg-name="" tvg-id="",Onda Cero
+#EXTINF:0 tvg-chno="1030" tvg-name="" tvg-id="",Onda Cero
 
 http://icecast-streaming.nice264.com/ondacero
 
 
 
-#EXTINF:0 tvg-chno="540" tvg-name="" tvg-id="",Cadena Ser
+#EXTINF:0 tvg-chno="1040" tvg-name="" tvg-id="",Cadena Ser
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
 
 
-#EXTINF:0 tvg-chno="541" tvg-name="" tvg-id="",Cadena Ser Vigo
+#EXTINF:0 tvg-chno="1041" tvg-name="" tvg-id="",Cadena Ser Vigo
 
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
 
 
 
-#EXTINF:0 tvg-chno="542" tvg-name="" tvg-id="",Cadena Ser Baixo Miño
+#EXTINF:0 tvg-chno="1042" tvg-name="" tvg-id="",Cadena Ser Baixo Miño
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAIXOMINO.mp3
+
+
