@@ -44,27 +44,27 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="8.1" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",Canal El Pais
-
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="9.1" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
+#EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9.2" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
+#EXTINF:-1 tvg-chno="8.1" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="8.2" tvg-name="France 24 Spanish FR" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France24.jpg",France 24 en español
 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9.3" tvg-name="Deutsche Welle Es DE" tvg-id="DeutscheWelleEs.de" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/DW.jpg",DW en español
+#EXTINF:-1 tvg-chno="9" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",Canal El Pais
 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 
 
@@ -104,13 +104,13 @@ https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="15.1" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
+#EXTINF:-1 tvg-chno="15" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
 
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="15.2" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",Canal 8 Cataluña
+#EXTINF:-1 tvg-chno="15.1" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",Canal 8 Cataluña
 
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
