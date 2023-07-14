@@ -44,7 +44,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="8.1" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",El Pais
+#EXTINF:-1 tvg-chno="8.1" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",Canal El Pais
 
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
@@ -98,21 +98,45 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 
 
-#EXTINF:-1 tvg-chno="14" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
+#EXTINF:-1 tvg-chno="14" tvg-id="Teleganes.es" tvg-logo="X.jpg",Televisión Leganés
 
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="15" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",8TV Cataluña
+#EXTINF:-1 tvg-chno="15.1" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
 
-http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="15.2" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",Canal 8 Cataluña
+
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.1" tvg-id="Malaga.es" tvg-name="Canal Malaga ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Málaga
+
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.2" tvg-id="Huelva.es" tvg-name="Canal Huelva ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Huelva
+
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.3" tvg-id="OndaCadiz.es" tvg-name="Canal Cadiz ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Cadiz
+
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 
 
@@ -134,6 +158,18 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="19.1" tvg-id="Aranda.es" tvg-logo="X.jpg",Televisión de Aranda
+
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="19.2" tvg-id="Benavente.es" tvg-logo="X.jpg",Televisión de Benavente
+
+https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8
+
+
+
 #EXTINF:0 tvg-chno="20" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
@@ -146,9 +182,15 @@ https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="22" tvg-id="CanalVasco.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco
+#EXTINF:-1 tvg-chno="22" tvg-id="CanalVasco.es" tvg-id="ETB1.TV" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco 1
 
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="22.1" tvg-id="CanalVasco.es" tvg-id="ETB2.TV" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco 2
+
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 
 
@@ -158,19 +200,31 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m
 
 
 
+#EXTINF:0 tvg-chno="23.1" tvg-id="Zafra.es" tvg-name="Canal Zafra" tvg-logo="X.jpg",Zafra Televisión
+
+https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
+
+
+
 #EXTINF:0 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Navarra%20Television.jpg",Navarra Televisión
 
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-chno="25" tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",A Punt Valencia
+#EXTINF:0 tvg-chno="25" tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",Valencia A Punt
 
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
 
 
-#EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,7 TV Murcia
+#EXTINF:0 tvg-chno="25.1" tvg-id="Alicante TV" tvg-name"Alicante TV" tvg-logo="X.jpg",Alicante TV
+
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
+
+
+#EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,Canal 7 Murcia
 
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
@@ -268,19 +322,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
 #EXTINF:0 tvg-chno="60" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
-http://hola.m3u8
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-chno="61" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,Fashion TV
 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-
-
-
-#EXTINF:0 tvg-chno="62" tvg-name="" tvg-id="" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,HD Fashion Lifestyle
-
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
