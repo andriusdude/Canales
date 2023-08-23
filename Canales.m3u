@@ -88,13 +88,13 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-name="Telemadrid" tvg-id="TeleMadrid.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Telemadrid.jpg",Telemadrid
 
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 
 
 
