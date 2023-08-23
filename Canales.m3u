@@ -116,6 +116,8 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 
 
+#EXTGRP: Canales de Andalucía
+
 #EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
@@ -140,6 +142,18 @@ https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="16.4" tvg-id="CanalMarbella.es" tvg-name="Canal Marbella ES" tvg-shift="0" tvg-logo="X.jpg",Marbella TV
+
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.5" tvg-id="Estepona.es" tvg-name="Canal Estepona ES" tvg-shift="0" tvg-logo="X.jpg",Estepona TV
+
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
+
+
 #EXTINF:0 tvg-chno="17" tvg-id="AragonTV.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Aragon%20TV.jpg",Aragón TV
 
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -155,6 +169,7 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8
 #EXTINF:0 tvg-chno="19" tvg-id="CyL7.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20y%20Leon%20Television.jpg",Castilla y Leon TV
 
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
 
 
 
