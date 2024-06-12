@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+X
 
 #EXTINF:-1 tvg-chno="1" tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%201.jpg",La 1
 
@@ -92,7 +92,8 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+
 
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
