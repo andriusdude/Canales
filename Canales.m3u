@@ -46,7 +46,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
 
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
 
@@ -70,19 +70,25 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-chno="10" tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
-http://europa-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="10.1" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
-https://amodino-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-amodino.flumotion.com/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="11" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
-http://america-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11.5" tvg-id="X" tvg-logo="X",Televigo
+
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 
 
 
