@@ -38,6 +38,10 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 
 
+#EXTGRP: Canales de Noticias
+
+
+
 #EXTINF:-1 tvg-chno="7" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -73,37 +77,36 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 
+
+#EXTGRP: Canales de Galicia
+
+
+
 #EXTINF:-1 tvg-chno="10" tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
 
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="10.1" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
-
-https://crtvg-amodino.flumotion.com/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="11" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
+#EXTINF:-1 tvg-chno="10.1" tvg-id="TVGalicia.ar" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia%20America.jpg",TV Galicia America
 
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11.5" tvg-id="X" tvg-logo="X",Televigo
+#EXTINF:-1 tvg-chno="10.5" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Canal Radio TVG
 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
-
-
-
-#EXTINF:-1 tvg-chno="11.6" tvg-id="X" tvg-logo="X",TV Ferrol
-
-https://directo.tvferrol.es/tv.m3u8
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11.7" tvg-id="X" tvg-logo="X",A Nove
+#EXTINF:-1 tvg-chno="11.1" tvg-id="X" tvg-logo="X",Televigo
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11.2" tvg-id="X" tvg-logo="X",A Nove
 
 https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
 
@@ -223,9 +226,17 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4yc
 
 
 
+#EXTGRP: Canales de La Rioja
+
+
+
 #EXTINF:0 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg",Televisión Rioja
 
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+
+
+#EXTGRP: Canales del País Vasco
 
 
 
@@ -241,15 +252,17 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 
 
+#EXTGRP: Canales de Extremadura
+
+
+
 #EXTINF:0 tvg-chno="23" tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
 
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
 
 
-#EXTINF:0 tvg-chno="23.1" tvg-id="Zafra.es" tvg-name="Canal Zafra" tvg-logo="X.jpg",Zafra Televisión
-
-https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
+#EXTGRP: Canales de Navarra
 
 
 
@@ -259,9 +272,13 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 
 
 
+#EXTGRP: Canales de Valencia
+
+
+
 #EXTINF:0 tvg-chno="25" tvg-id="Apunt.es" tvg-name"A Punt" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Apunt.jpg",Valencia A Punt
 
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
 
 
@@ -271,9 +288,17 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
 
 
+#EXTGRP: Canales de Murcia
+
+
+
 #EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,Canal 7 Murcia
 
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
+
+
+#EXTGRP: Canales de Baleares
 
 
 
@@ -283,9 +308,23 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 
 
+#EXTINF:0 tvg-chno="27.1" tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg",Canal Ibiza y Formentera
+
+https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
+
+
+
+#EXTGRP: Canales de Canarias
+
+
+
 #EXTINF:0 tvg-chno="28" tvg-name="TV Canaria" tvg-id="TvCanaria.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,TV Canaria
 
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+
+
+
+#EXTGRP: Canales de Entretenimiento
 
 
 
@@ -349,6 +388,10 @@ https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
 
 
+#EXTGRP: Canales de Deportes
+
+
+
 #EXTINF:0 tvg-chno="50" tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
 
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
@@ -367,6 +410,10 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
+#EXTGRP: Canales de Moda
+
+
+
 #EXTINF:0 tvg-chno="60" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
@@ -376,6 +423,10 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-chno="61" tvg-name="Fashion TV FR" tvg-id="FashionTV.fr" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Fashion.jpg" ,Fashion TV
 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+
+
+#EXTGRP: Estaciones de Radio
 
 
 
