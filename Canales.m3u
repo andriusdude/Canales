@@ -62,10 +62,15 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",Canal El Pais
+#EXTINF:-1 tvg-chno="9" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",El Pais
 
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
+
+
+#EXTINF:-1 tvg-chno="9.1" tvg-name="El Confidencial" tvg-id="X.es" group-title="NEWS" tvg-logo="X",El Confidencial
+
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 
 #EXTINF:-1 tvg-chno="10" tvg-name="TVG" tvg-id="TVGalicia.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",TV Galicia Europa
@@ -88,7 +93,23 @@ https://crtvg-america.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="X" tvg-logo="X",Televigo
 
-https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+
+
+
+#EXTINF:-1 tvg-chno="11.6" tvg-id="X" tvg-logo="X",TV Ferrol
+
+https://directo.tvferrol.es/tv.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11.7" tvg-id="X" tvg-logo="X",A Nove
+
+https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
+
+
+
+#EXTGRP: Canales de Madrid
 
 
 
@@ -100,7 +121,6 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
-
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 
@@ -108,6 +128,10 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="Teleganes.es" tvg-logo="X.jpg",Televisión Leganés
 
 https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+
+
+
+#EXTGRP: Canales de Cataluña
 
 
 
@@ -124,6 +148,7 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 
 #EXTGRP: Canales de Andalucía
+
 
 #EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
@@ -338,7 +363,7 @@ http://gol.m3u8
 
 #EXTINF:0 tvg-chno="52" tvg-name="Real Madrid TV" tvg-id="RealMadridTV.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Real%20Madrid%20TV.jpg" ,Real Madrid TV
 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
