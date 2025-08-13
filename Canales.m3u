@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%202.jpg" audio-track="es",La 2
 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-
+ffffffff
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-country="ES" tvg-language="Spanish" group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Antena%203.jpg" audio-track="es",Antena 3
@@ -50,7 +50,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
 
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
 
 
@@ -100,15 +100,27 @@ https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/pla
 
 
 
-#EXTINF:-1 tvg-chno="11.1" tvg-id="X" tvg-logo="X",Televigo
+#EXTINF:-1 tvg-chno="11.1" tvg-id="X" tvg-logo="X",A Nove
 
-https://stream-us-east-1.getpublica.com/playlist.m3u8
+https://cloud.fastchannel.es/mic/manifiest/anove.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11.2" tvg-id="X" tvg-logo="X",A Nove
+#EXTINF:-1 tvg-chno="11.2" tvg-id="X" tvg-logo="X",Televigo
 
-https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16113&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&ssai_enabled=1&content_cat=IAB1&content_channel=televigo&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&min_ad_duration=6&max_ad_duration=120&content_id=%5BCONTENT_ID%5D
+
+
+
+#EXTINF:-1 tvg-chno="11.3" tvg-id="X" tvg-logo="X",Telemiño
+
+https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11.4" tvg-id="X" tvg-logo="X",TV Ferrol
+
+https://directo.tvferrol.es/tv.m3u8
 
 
 
@@ -128,11 +140,11 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Teleganes.es" tvg-logo="X.jpg",Televisión Leganés
+#EXTINF:-1 tvg-chno="14" tvg-id="Teleganes.es" tvg-logo="X.jpg",Leganés Televisión
 
 https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
-
+ff
 
 #EXTGRP: Canales de Cataluña
 
@@ -155,19 +167,19 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
 
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="16.1" tvg-id="Malaga.es" tvg-name="Canal Malaga ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Málaga
 
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 
 
 #EXTINF:-1 tvg-chno="16.2" tvg-id="Huelva.es" tvg-name="Canal Huelva ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Huelva
 
-https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+https://htv5router.ddns.net/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3.m3u8
 
 
 
@@ -210,7 +222,7 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
 #EXTINF:-1 tvg-chno="19.1" tvg-id="Aranda.es" tvg-logo="X.jpg",Televisión de Aranda
 
-https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1
 
 
 
@@ -222,7 +234,9 @@ https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8
 
 #EXTINF:0 tvg-chno="20" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+
 
 
 
@@ -252,13 +266,17 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 
 
+
+
 #EXTGRP: Canales de Extremadura
 
 
 
 #EXTINF:0 tvg-chno="23" tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Extremadura.jpg",Canal Extremadura
 
-https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+
+
 
 
 
@@ -288,13 +306,17 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
 
 
+
+
 #EXTGRP: Canales de Murcia
 
 
 
 #EXTINF:0 tvg-chno="26" tvg-id="7tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/7TV.jpg" ,Canal 7 Murcia
 
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
+
+
 
 
 
@@ -318,37 +340,39 @@ https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="28" tvg-name="TV Canaria" tvg-id="TvCanaria.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,TV Canaria
+#EXTINF:0 tvg-chno="28" tvg-name="Canal 4 Tenerife" tvg-id="X" tvg-logo="xxxhttps://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,Canal 4 Tenerife
 
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-
-
-
-#EXTGRP: Canales de Entretenimiento
+https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
 
 
 
-#EXTINF:0 tvg-chno="30" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
-
-https://livestartover.atresmedia.com/a3series/master.m3u8
 
 
-
-#EXTINF:0 tvg-chno="31" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
-
-https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+# #EXTGRP: Canales de Entretenimiento
 
 
 
-#EXTINF:0 tvg-chno="32" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
+# #EXTINF:0 tvg-chno="30" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
 
-https://pull2b-i.akamaized.net/neox/master.m3u8
+# https://livestartover.atresmedia.com/a3series/master.m3u8
 
 
 
-#EXTINF:0 tvg-chno="33" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+# #EXTINF:0 tvg-chno="31" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
 
-https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+# https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+
+
+
+# #EXTINF:0 tvg-chno="32" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
+
+# https://pull2b-i.akamaized.net/neox/master.m3u8
+
+
+
+# #EXTINF:0 tvg-chno="33" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
+
+# https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 
 
 
