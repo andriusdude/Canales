@@ -38,6 +38,8 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 
 
+
+
 #EXTGRP: Canales de Noticias
 
 
@@ -45,6 +47,12 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" RESOLUTION=720x480 tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Canal 24 Horas
 
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="7.5" tvg-id="RNE_Radio3.TV" tvg-name="RNE Radio 3" tvg-country="ES" tvg-language="Spanish" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/24%20Horas.jpg",Radio 3
+
+https://ztnr.rtve.es/ztnr/6982891.m3u8
 
 
 
@@ -78,6 +86,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+
 #EXTGRP: Canales de Galicia
 
 
@@ -94,7 +103,7 @@ https://crtvg-america.flumotion.cloud/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="10.5" tvg-name="TVG 2" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Canal Radio TVG
+#EXTINF:-1 tvg-chno="10.5" tvg-name="TVG Radio" tvg-id="X.es" tvg-shift="0" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Television%20de%20Galicia.jpg",Televisión Galicia Radio
 
 https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
 
@@ -124,6 +133,7 @@ https://directo.tvferrol.es/tv.m3u8
 
 
 
+
 #EXTGRP: Canales de Madrid
 
 
@@ -134,9 +144,15 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="13" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
+#EXTINF:-1 tvg-chno="12.1" tvg-name="La Otra" tvg-id="LaOtra.es" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/La%20Otra.jpg",La Otra Telemadrid
 
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="12.5" tvg-name="Onda Madrid" tvg-id="OndaMadrid.TV" group-title="Regionales" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/X.jpg",Radio Onda Madrid
+
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 
 
 
@@ -144,60 +160,67 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
-ff
 
-#EXTGRP: Canales de Cataluña
-
-
-
-#EXTINF:-1 tvg-chno="15" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
-
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="15.1" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",Canal 8 Cataluña
-
-https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 
 
 #EXTGRP: Canales de Andalucía
 
 
-#EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Sur Andalucia
+
+#EXTINF:-1 tvg-chno="16" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Andalucia 1
 
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16.1" tvg-id="Malaga.es" tvg-name="Canal Malaga ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Málaga
+#EXTINF:-1 tvg-chno="16.1" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Andalucia 2
+
+
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.2" tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canal%20Andalucia.jpg",Canal Andalucia Noticias
+
+
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16.3" tvg-id="Malaga.es" tvg-name="Canal Malaga ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Málaga
 
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-chno="16.2" tvg-id="Huelva.es" tvg-name="Canal Huelva ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Huelva
+#EXTINF:-1 tvg-chno="16.4" tvg-id="Huelva.es" tvg-name="Canal Huelva ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Huelva
 
 https://htv5router.ddns.net/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16.3" tvg-id="OndaCadiz.es" tvg-name="Canal Cadiz ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Cadiz
+#EXTINF:-1 tvg-chno="16.5" tvg-id="OndaCadiz.es" tvg-name="Canal Cadiz ES" tvg-shift="0" tvg-logo="X.jpg",Canal de Cadiz
 
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16.4" tvg-id="CanalMarbella.es" tvg-name="Canal Marbella ES" tvg-shift="0" tvg-logo="X.jpg",Marbella TV
+#EXTINF:-1 tvg-chno="16.6" tvg-id="CanalMarbella.es" tvg-name="Canal Marbella ES" tvg-shift="0" tvg-logo="X.jpg",Marbella TV
 
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16.5" tvg-id="Estepona.es" tvg-name="Canal Estepona ES" tvg-shift="0" tvg-logo="X.jpg",Estepona TV
+#EXTINF:-1 tvg-chno="16.7" tvg-id="Estepona.es" tvg-name="Canal Estepona ES" tvg-shift="0" tvg-logo="X.jpg",Estepona TV
 
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
+
+
+
+
+#EXTGRP: Canales de Aragón
 
 
 
@@ -207,9 +230,21 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
+
+
+#EXTGRP: Canales de Asturias
+
+
+
 #EXTINF:0 tvg-chno="18" tvg-id="RTP Asturias" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/RT%20Principado%20Asturias.jpg",Televisión de Asturias
 
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8
+
+
+
+
+
+#EXTGRP: Canales de Castilla y León
 
 
 
@@ -232,9 +267,22 @@ https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8
 
 
 
+
+
+#EXTGRP: Canales de Castilla y León
+
+
+
 #EXTINF:0 tvg-chno="20" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Castilla La Mancha TV
 
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+
+
+#EXTINF:0 tvg-chno="20.1" tvg-id="CMM.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Castilla%20La%20Mancha%20TV.jpg",Radio Castilla La Mancha
+
+
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_belryxvp/protocol/https/format/applehttp/a.m3u8
 
 
 
@@ -247,6 +295,8 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9
 #EXTINF:0 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TVR.jpg",Televisión Rioja
 
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+
 
 
 
@@ -263,6 +313,12 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-chno="22.1" tvg-id="CanalVasco.es" tvg-id="ETB2.TV" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/EITB.jpg",Canal Vasco 2
 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="22.2" tvg-id="TeleBilbao.es" tvg-id="X.TV" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/X.jpg",Tele Bilbao
+
+https://tbilbo.dyndns.org/hls/stream.m3u8
 
 
 
@@ -290,6 +346,14 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 
 
 
+#EXTINF:0 tvg-chno="24.1" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/X.jpg",Tele Ribera
+
+https://video3.lhdserver.es/teleribera/live.m3u8
+
+
+
+
+
 #EXTGRP: Canales de Valencia
 
 
@@ -300,7 +364,13 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 
 
 
-#EXTINF:0 tvg-chno="25.1" tvg-id="Alicante TV" tvg-name"Alicante TV" tvg-logo="X.jpg",Alicante TV
+#EXTINF:0 tvg-chno="25.1" tvg-id="7Televalencia.TV" tvg-name"7Televalencia" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/X.jpg",7 Tele Valencia
+
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-chno="25.2" tvg-id="Alicante TV" tvg-name"Alicante TV" tvg-logo="X.jpg",Alicante TV
 
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
@@ -332,7 +402,14 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:0 tvg-chno="27.1" tvg-id="IB3.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/IB3.jpg",Canal Ibiza y Formentera
 
-https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
+https://tef.servertv.online:3268/live/teflive.m3u8
+
+
+#EXTINF:0 tvg-chno="27.2" tvg-id="XYZ.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/X.jpg",Canal 4 Mallorca
+
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+
+
 
 
 
@@ -340,9 +417,27 @@ https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-chno="28" tvg-name="Canal 4 Tenerife" tvg-id="X" tvg-logo="xxxhttps://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,Canal 4 Tenerife
+#EXTINF:0 tvg-chno="28" tvg-name="Canal 4 Tenerife" tvg-id="X" tvg-logo="xxxhttps://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Canaria.jpg" ,Fuerteventura Televisión
 
-https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+
+
+
+
+
+#EXTGRP: Canales de Cataluña
+
+
+
+#EXTINF:-1 tvg-chno="15" tvg-id="TV3Catalunya.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/TV3.jpg",TV3 Cataluña
+
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="15.1" tvg-id="8tv.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/8TV.jpg",Canal 8 Cataluña
+
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 
 
@@ -352,79 +447,9 @@ https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
 
 
 
-# #EXTINF:0 tvg-chno="30" tvg-name="Atreseries" tvg-id="Atreseries.es" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Atreseries.jpg",Atreseries
+#EXTINF:0 tvg-chno="50" tvg-name="Teledeporte" tvg-id="TDP.TV" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
 
-# https://livestartover.atresmedia.com/a3series/master.m3u8
-
-
-
-# #EXTINF:0 tvg-chno="31" tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Energy.jpg",Energy
-
-# https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
-
-
-
-# #EXTINF:0 tvg-chno="32" tvg-name="NEOX" tvg-id="Neox.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NEOX.jpg",NEOX
-
-# https://pull2b-i.akamaized.net/neox/master.m3u8
-
-
-
-# #EXTINF:0 tvg-chno="33" tvg-id="FactoriaFiccion.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/FDF.jpg",FDF
-
-# https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
-
-
-
-#EXTINF:0 tvg-chno="34" tvg-id="Nova.es" tvg-shift="0" tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/NOVA.jpg",NOVA
-
-https://livestartover.atresmedia.com/nova/master.m3u8
-
-
-
-#EXTINF:0 tvg-chno="35" tvg-id="Divinity.es" tvg-shift="0" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Divinity.jpg",Divinity
-
-https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
-
-
-
-#EXTINF:0 tvg-chno="36" tvg-name="MEGA" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/MEGA.jpg",MEGA
-
-https://livestartover.atresmedia.com/mega/master.m3u8
-
-
-
-#EXTINF:0 tvg-chno="37" tvg-name="Be Mad" tvg-id="BeMad.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Be%20Mad.jpg",Be Mad
-
-https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
-
-
-
-#EXTINF:0 tvg-chno="40" tvg-name="Clan TVE" tvg-id="ClanTVE.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Clan.jpg" ,Clan
-
-http://clan.m3u8
-
-
-
-#EXTINF:0 tvg-chno="41" tvg-name="Boing" tvg-id="Boing.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Boing.jpg",Boing
-
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-
-
-
-#EXTGRP: Canales de Deportes
-
-
-
-#EXTINF:0 tvg-chno="50" tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title"SPORTS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Teledeporte.jpg", Teledeporte
-
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-
-
-
-#EXTINF:0 tvg-chno="51" tvg-name="Gol" group-title"SPORTS" tvg-id="Gol.es" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Gol.jpg",Gol
-
-http://gol.m3u8
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
 
@@ -434,13 +459,15 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
+
+
 #EXTGRP: Canales de Moda
 
 
 
 #EXTINF:0 tvg-chno="60" tvg-name="Hola TV US" tvg-id="HolaTV.us" group-title"LIFE_STYLE" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Hola.jpg" ,Hola TV
 
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 
 
