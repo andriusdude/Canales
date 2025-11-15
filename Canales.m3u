@@ -56,7 +56,7 @@ https://ztnr.rtve.es/ztnr/6982891.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="France24Spanish.fr" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/France2XX4.jpg",Euronews
+#EXTINF:-1 tvg-chno="8" tvg-name="Euronews" tvg-id="Euronews.es" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/andriusdude/Canales/master/Logos/Euronews.jpg",Euronews
 
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
@@ -76,13 +76,14 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-name="El Pais" tvg-id="ElPais.es" group-title="NEWS" tvg-logo="X",El Pais
 
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="9.1" tvg-name="El Confidencial" tvg-id="X.es" group-title="NEWS" tvg-logo="X",El Confidencial
 
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
 
 
 
